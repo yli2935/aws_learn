@@ -1,5 +1,5 @@
 1. **用户管理**：
    - 创建和管理用户账号。
-     ![IAM 图片](https://example.com/iam_diagram.png)
-   - 分配唯一的访问密钥和密码给每个用户。
-   - 设置用户的权限和访问策略。
+    ![image](https://github.com/yli2935/aws_learn/assets/46660697/49957538-2972-4ae1-831d-910860de5382)
+
+
